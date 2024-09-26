@@ -10,6 +10,8 @@ let valor1 = parseInt (prompt('primeiro número'))
 let valor2 = parseInt (prompt('segundo número'))
 let valor3 = parseInt (prompt('terceiro número'))
 function total (valor1,valor2,valor3){
-    return valor1+valor2+valor3/3
+    return valor1+valor2+valor3
+
 };
-console.log (total);
+let valor4 = total/3
+console.log (valor4);
