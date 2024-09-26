@@ -13,4 +13,4 @@ function total (valor1,valor2,valor3){
     return valor1+valor2+valor3
 };
 let media = total/3;
-console.log (media);
+console.log (total/3);
