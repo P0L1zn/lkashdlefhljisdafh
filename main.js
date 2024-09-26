@@ -7,4 +7,4 @@ function area (l){
 }
 let area = prompt ('lado do quadrado')
 console.log (soma (5,8));
-console.log (area (10));
+console.log (area (area));
