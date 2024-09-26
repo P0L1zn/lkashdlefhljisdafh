@@ -11,6 +11,6 @@ let valor2 = parseInt (prompt('segundo número'))
 let valor3 = parseInt (prompt('terceiro número'))
 function total (valor1,valor2,valor3){
     return valor1+valor2+valor3;
-}
+};
 let valor4 = total/3
 console.log (valor4);
