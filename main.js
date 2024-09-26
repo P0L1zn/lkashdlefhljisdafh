@@ -2,9 +2,8 @@ alert('Luiz 24 e Willian 39')
 function soma (num1,num2){
     return num1*num2;
 }
-function area (l){
-    return l**2;
+function lado (let lado = prompt ('lado do quadrado');
 }
-let area = prompt ('lado do quadrado')
+let area = lado**2
 console.log (soma (5,8));
-console.log (area );
+console.log (area);
