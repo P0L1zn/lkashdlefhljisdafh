@@ -4,7 +4,7 @@ function soma (num1,num2){
 }
 prompt('lado do quadrado')
 let lado = parseInt (prompt('lado do quadrado'));
-};
+}
  let area = lado**2
 console.log (soma (5,8));
 console.log (area);
