@@ -6,6 +6,6 @@ let lado = parseInt (prompt('lado do quadrado'));
  let area = lado**2
 console.log (soma (5,8));
 console.log (area);
-let total = parseInt (prompt('media de 3 números')
+let total = parseInt (prompt('media de 3 números');
 let media = total/3
 console.log (media);
