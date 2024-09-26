@@ -1,4 +1,4 @@
-prompt('seu nome')
-let nomeUsuario = prompt
-console.log (nomeUsuario)
-document.write (nomeUsuario)
+prompt('Luiz 24 e Willian 39')
+function soma (num1,num2){
+    return num1+num2
+}
