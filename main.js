@@ -12,6 +12,6 @@ let valor3 = parseInt (prompt('terceiro número'))
 function soma(valor1, valor2, valor3) {
     return valor1 + valor2 + valor3;
 }
-
 let total = soma(valor1, valor2, valor3);
-console.log ('a média dos três números é:',total);
+let media = total/3
+console.log ('a média dos três números é:',media);
