@@ -1,5 +1,5 @@
 alert('Luiz 24 e Willian 39')
-function soma (num1,num2){
+function soma1 (num1,num2){
     return num1*num2;
 }
 let lado = parseInt (prompt('lado do quadrado'));
@@ -9,8 +9,8 @@ console.log (area);
 let valor1 = parseInt (prompt('primeiro número'))
 let valor2 = parseInt (prompt('segundo número'))
 let valor3 = parseInt (prompt('terceiro número'))
-function total (valor1,valor2,valor3){
+function soma (valor1,valor2,valor3){
     return valor1+valor2+valor3;
 };
-let valor4 = total/3
+let valor4 = soma/3
 console.log (valor4);
