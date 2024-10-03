@@ -31,6 +31,6 @@ if (idade) {
     idade<18
 console.log ('não pode beber')
 }
-else(){
+else {
     console.log ('pode beber')
 }
