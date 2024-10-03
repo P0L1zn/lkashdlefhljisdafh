@@ -26,7 +26,7 @@ alert('Luiz 24 e Willian 39')
 //     console.log (j)
 //     console.log (estados[j]);
 // }
-let idade =
+let idade = 16
 if (idade){ 
     idade<18
 console.log ('não pode beber')
