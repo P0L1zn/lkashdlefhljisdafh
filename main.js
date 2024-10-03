@@ -17,7 +17,7 @@ alert('Luiz 24 e Willian 39')
 // console.log ('a média dos três números é:',media);
 let estados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'];
 let i = 0;
-while (i<27){
+while (i<estados.length){
 console.log (i); 
 console.log (estados[i]);
 i=i+1;
