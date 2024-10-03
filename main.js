@@ -24,5 +24,5 @@ i=i+1;
 }
 for (let j = 0; j< estados.length; j++) {
     console.log (j)
-    console.log (estados[j])
+    console.log (estados[j]);
 }
