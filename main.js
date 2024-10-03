@@ -15,14 +15,22 @@ alert('Luiz 24 e Willian 39')
 // let total = soma(valor1, valor2, valor3);
 // let media = total/3
 // console.log ('a média dos três números é:',media);
-let estados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'];
-let i = 0;
-while (i<estados.length){
-console.log (i); 
-console.log (estados[i]);
-i=i+1;
+// let estados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG', 'MS', 'MT', 'PA', 'PB', 'PE', 'PI', 'PR', 'RJ', 'RN', 'RO', 'RR', 'RS', 'SC', 'SE', 'SP', 'TO'];
+// let i = 0;
+// while (i<estados.length){
+// console.log (i); 
+// console.log (estados[i]);
+// i=i+1;
+// }
+// for (let j = 0; j< estados.length; j++) {
+//     console.log (j)
+//     console.log (estados[j]);
+// }
+let idade =
+if(idade){ 
+    idade<18
+console.log ('não pode beber')
 }
-for (let j = 0; j< estados.length; j++) {
-    console.log (j)
-    console.log (estados[j]);
+else(){
+    console.log ('pode beber')
 }
