@@ -19,4 +19,4 @@ let estados = ['AC', 'AL', 'AM', 'AP', 'BA', 'CE', 'DF', 'ES', 'GO', 'MA', 'MG',
 let i = 0;
 while (i<10)
 console.log (i);
-i=i+;
+i=i+1;
