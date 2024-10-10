@@ -1,6 +1,6 @@
 :root{
     --fundo: #A52A2A;
-    --caratao-frente: #F0F8FF;
+    --cartao-frente: #F0F8FF;
     --cartao-verso: #E6E6FA;
     --destaque: #D8BFD8;
     --preto: #000000;
@@ -14,5 +14,5 @@ body{
 footer{
     position: : fixed;
     bottom: 0;
-    
+    background-color: var
 }
