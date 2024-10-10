@@ -14,8 +14,8 @@ criaCartao('Matemática',
     'O que é Recisão de Contrato?',
     'Término de um vínculo empregatício')
     criaCartao('Educação Financeira',
-    'Qual o intervalo mínimo de horas de uma interjornada?'
-    '11 horas'),
+    'Qual o intervalo mínimo de horas de uma interjornada?',
+    '11 horas')
     criaCartao('Física',
     'Qual a fórmula da Velocidade?',
     'V=Δs/Δt')
