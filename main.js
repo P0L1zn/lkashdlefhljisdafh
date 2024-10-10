@@ -26,11 +26,20 @@ alert('Luiz 24 e Willian 39')
 //     console.log (j)
 //     console.log (estados[j]);
 // }
-let idade = 16
-if (idade) { 
-    idade<18
-console.log ('não pode beber')
-}
-else {
-    console.log ('pode beber')
+// let idade = 16
+// if (idade) { 
+//     idade<18
+// console.log ('não pode beber')
+// }
+// else {
+//     console.log ('pode beber')
+// }
+function criaCartao (categoria, pergunta, resposta){
+    let container = document.getElementById ('container');
+    let cartao = document.createElement('article')
+cartao.className =  'cartao';
+cartao.innerHTML = '
+<div class= "conteudo-cartao">
+
+'
 }
