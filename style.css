@@ -52,3 +52,6 @@ padding: 0.6rem;
 font-size: 1vw;
 backface-visibility: hidden;
 }
+.conteudo-cartao p{
+    font-size: 1.4vw;
+}
