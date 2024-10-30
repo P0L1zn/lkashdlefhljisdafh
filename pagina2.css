@@ -9,6 +9,7 @@
 body{
     background-color: var(--fundo);
 }
+
 header {
     padding: 2rem;
     display: flex;
@@ -20,6 +21,7 @@ header a {
     color: var(--branco);
     text-decoration: none;
 }
+
 footer{
     position: fixed;
     bottom: 0;
