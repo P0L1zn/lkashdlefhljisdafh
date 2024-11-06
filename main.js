@@ -17,10 +17,10 @@ cartao.innerHTML = `
 let respostaEstaVisível = false;
 
 function viracartao ( ) {
-    respostaEstaVisível = !respostaEstaVisível
-    .cartaoclassList.toggle('active',respostaEstaVisível)
+    respostaEstaVisível = !respostaEstaVisível;
+    .cartaoclassList.toggle('active',respostaEstaVisível);
 }
 
-cartao.addEventListener ('click',viracartao)
+cartao.addEventListener ('click',viracartao);
 container.appendChild(cartao);
 }
