@@ -18,7 +18,7 @@ let respostaEstaVisível = false;
 
 function viracartao ( ) {
     respostaEstaVisível = !respostaEstaVisível;
-    .cartaoclassList.toggle('active',respostaEstaVisível);
+    .cartao.classList.toggle('active',respostaEstaVisível);
 }
 
 cartao.addEventListener ('click',viracartao);
