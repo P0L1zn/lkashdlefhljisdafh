@@ -79,7 +79,7 @@ backface-visibility: hidden;
     transform: rotateY(180deg);
     border: 2px solid var(--destaque);
 }
-.cartao.acive .conteudo-cartao {
+.cartao.active .conteudo-cartao {
     transform: rotateY(180deg);
 }
 
