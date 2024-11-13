@@ -52,7 +52,7 @@ margin: 1rem;
     transition: transform 300ms ease-in-out;
 }
 
-.centeudo-cartao h3{
+.conteudo-cartao h3{
     position: absolute;
 text-align: left;
 color: var(--destaque);
